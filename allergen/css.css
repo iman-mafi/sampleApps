@@ -1,0 +1,47 @@
+body {
+  padding: 50px;
+  background: #333;
+  color: white;
+}
+
+.fade{
+  display: none;
+}
+
+
+#result {
+  padding: 10px;
+  display: none;
+  color: #333;
+  font-size: 65px;
+  margin-top: -15px;
+  margin-left: 65px;
+  background: #ddd;
+  max-width: 110px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.index {
+  padding: 5px;
+  color: #ccc;
+  font-size: 18px;
+  display: inline;
+}
+
+.val {
+ color: hotpink;
+  display: inline;
+}
+
+button {
+  margin-left: 30px;
+  background: #ddd;
+  color: #333;
+  height: 40px;
+  font-size: 18px;
+}
+
+input {
+  color: hotpink;
+}
